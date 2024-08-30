@@ -1,0 +1,36 @@
+﻿@model Category
+
+
+@{
+	ViewData["Title"] = "Category Details";
+}
+
+<div class="pt-3 pb-3 mt-4 d-flex justify-content-between align-items-center">
+    <h1 class="text-primary ">Category -@{@Model.Name}- Details</h1>
+    <a class="btn btn-primary d-flex align-content-center " asp-controller="Category" asp-action="Index">
+        <i class="bi bi-arrow-left-short fs-5"></i>
+        <span class="ps-1">Categories List</span>
+    </a>
+</div>
+
+<hr />
+
+<div class="">
+    <div class="row mb-3">
+        <div class="col-1 text-white fw-bold">Name</div>
+        <div class="col-10 offset-1 border-start py-2">@{@Model.Name}</div>
+    </div>    
+    <div class="row mb-3">
+        <div class="col-1 text-white fw-bold">Display Order</div>
+        <div class="col-10 offset-1 border-start py-2">@{@Model.DisplayOrder}</div>
+    </div>    
+    <div class="row mb-3">
+        <div class="col-1 text-white fw-bold">Created At</div>
+        <div class="col-10 offset-1 border-start py-2">@{@DateOnly.FromDateTime(Model.CreatedDate)}</div>
+    </div>    
+    <div class="row mb-3">
+        <div class="col-1 text-white fw-bold">Descrption</div>
+        <div class="col-10 offset-1 border-start py-2">@{@Model.Description}</div>
+    </div>
+</div>
+

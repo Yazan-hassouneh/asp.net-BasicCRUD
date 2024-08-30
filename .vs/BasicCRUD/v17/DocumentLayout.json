@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GF 63\\Documents\\C#\\WebApp\\MVC\\BasicCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA51D611-071A-4CA2-9B01-27909BDA97E5}|BasicCRUD\\BasicCRUD.csproj|c:\\users\\gf 63\\documents\\c#\\webapp\\mvc\\basiccrud\\basiccrud\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA51D611-071A-4CA2-9B01-27909BDA97E5}|BasicCRUD\\BasicCRUD.csproj|solutionrelative:basiccrud\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA51D611-071A-4CA2-9B01-27909BDA97E5}|BasicCRUD\\BasicCRUD.csproj|c:\\users\\gf 63\\documents\\c#\\webapp\\mvc\\basiccrud\\basiccrud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA51D611-071A-4CA2-9B01-27909BDA97E5}|BasicCRUD\\BasicCRUD.csproj|solutionrelative:basiccrud\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\GF 63\\Documents\\C#\\WebApp\\MVC\\BasicCRUD\\BasicCRUD\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "BasicCRUD\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\GF 63\\Documents\\C#\\WebApp\\MVC\\BasicCRUD\\BasicCRUD\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "BasicCRUD\\Views\\Category\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T02:08:57.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\GF 63\\Documents\\C#\\WebApp\\MVC\\BasicCRUD\\BasicCRUD\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BasicCRUD\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\GF 63\\Documents\\C#\\WebApp\\MVC\\BasicCRUD\\BasicCRUD\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BasicCRUD\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T23:40:41.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
