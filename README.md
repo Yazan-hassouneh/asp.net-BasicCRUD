@@ -1,6 +1,6 @@
 ## About The Repo 
 
-asp.net MVC project.  
+Basic CRUD asp.net project, using MVC pattern.  
 
 ### - Database : 
 
